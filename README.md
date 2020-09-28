@@ -1,2 +1,2 @@
-# News_extract_EC2
+# News_extract_Fargate
 Using EC2 to extract news headline
